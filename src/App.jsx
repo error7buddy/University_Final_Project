@@ -5,6 +5,7 @@ import Navbar from './Header/Navbar';
 import Body from './Main/Body'; 
 import Section2 from './Main/Section2';
 import { Outlet } from 'react-router-dom';
+import HotelFooter from './Footer/HotelFooter';
 
 function App() {
   return (
